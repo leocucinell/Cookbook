@@ -8,12 +8,24 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    //IBOutlets
 
+    //View Life-cycle
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-
+    
+    //IBActions
+    @IBAction func signUp(_ sender: UIButton) {
+        
+    }
+    
+    @IBAction func logIn(_ sender: UIButton) {
+        
+    }
+    
 
 }
 
